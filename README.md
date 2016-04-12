@@ -1,2 +1,6 @@
 # pelican_bibtexpub
-render bibtex file of publications in pelican
+Render bibtex file of publications in pelican
+
+Adaptation of the bitex plugin of Vlad Niculae to my constraints and needs.
+
+
